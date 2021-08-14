@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wisata Bandung GI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_fragment2">
+        Apa saja yang merupakan bagian dari Greater Bandung ( Bandung Raya ) ?</string>
+    <string name="tvDescSlide3">
+        Aplikasi ini akan mempermudah untuk mencari
+        lokasi Wisata di bandung kalian ingin mencobanya?tinggal klik di bawah ini
+        selamat mencoba!</string>
+    <string name="title_activity_maps_wisata1">Map</string>
+    <string name="title_activity_maps_wisata2">Map</string>
+    <string name="title_activity_maps_wisata3">MapsWisata3Activity</string>
+    <string name="title_activity_maps_wisata4">MapsWisata4Activity</string>
+<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDmmiY_kfO92PL9_OgabE02fpceu-t9pVI
+    </string>
+</resources>
